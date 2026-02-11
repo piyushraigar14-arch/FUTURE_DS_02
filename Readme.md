@@ -111,8 +111,18 @@ This project explores the **Telco Customer Churn dataset**. The goal is to under
 \- **Tableau** → interactive dashboards.  
 
 
+### Practical Recommendations
+
+Based on the analysis, here are actions that can help reduce churn:
+- Improve onboarding for new customers (0–12 months).
+- Encourage long‑term contracts with discounts.
+- Promote automatic payment methods over electronic checks.
+- Investigate Fiber Optic service quality issues.
+- Manage high monthly charges with bundles or loyalty discounts.
+- Reward loyal customers with perks and recognition.
 
 ---
+
 
 
 
